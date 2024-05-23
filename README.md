@@ -10,7 +10,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rayane Boucheraine</h1>
-<h3 align="center">A Passionate Web Developer And Cyber Security Enthusiast From Algeria</h3>
+<h3 align="center">🚀 A Passionate Web Developer And Cyber Security Enthusiast From Algeria 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rayane-boucheraine&label=Profile%20views&color=0e75b6&style=flat" alt="rayane-boucheraine" />
