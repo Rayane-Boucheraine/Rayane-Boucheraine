@@ -10,11 +10,11 @@
 
 ## <img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif?raw=true" width = 50px><b> **About me**</b>
 
-- 🌱 I’m currently learning **ExpressJS and NestJS**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rayane-Boucheraine?tab=repositories](https://github.com/Rayane-Boucheraine?tab=repositories)
 
-- 💬 Ask me about **FrontEnd Development, ReactJS, NextJS**
+- 💬 Ask me about **FrontEnd Development, BackEnd Development, ReactJS, NextJS, NestJs**
 
 - 📫 How to reach me **[r_boucheraine@estin.dz](mailto:r_boucheraine@estin.dz)**
 <h3 align="left">Connect with me:</h3>
