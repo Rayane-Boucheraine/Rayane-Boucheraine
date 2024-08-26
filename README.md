@@ -49,10 +49,11 @@
 
 <div align="center">
 
-<a href="https://github.com/Rayane-Boucheraine/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayane-Boucheraine&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayane-Boucheraine&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Rayane-Boucheraine"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aceiny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=aceiny&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 </div>
 <br>
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="water background"></p>
