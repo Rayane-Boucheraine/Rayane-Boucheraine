@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg">
-    <img src="https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg" alt="Front-end Developer Illustration">
+  <a href="[https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg](https://miro.medium.com/v2/resize:fit:1400/0*bLmYSRwp0jbtk_1z)">
+    <img src="[https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg](https://miro.medium.com/v2/resize:fit:1400/0*bLmYSRwp0jbtk_1z)" alt="Front-end Developer Illustration">
   </a>
 </div>
 
