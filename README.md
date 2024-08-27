@@ -8,8 +8,7 @@
 <h1 align="center">Hi 👋, I'm Rayane Boucheraine</h1>
 <h3 align="center">🚀 A Passionate Web Developer And Cyber Security Enthusiast From Algeria 🚀</h3>
 
-<b> **About me**</b>
-
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Me</b>
 - 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rayane-Boucheraine?tab=repositories](https://github.com/Rayane-Boucheraine?tab=repositories)
