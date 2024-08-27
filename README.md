@@ -8,8 +8,7 @@
 <h1 align="center">Hi 👋, I'm Rayane Boucheraine</h1>
 <h3 align="center">🚀 A Passionate Web Developer And Cyber Security Enthusiast From Algeria 🚀</h3>
 
-##
-width = 50px><b> **About me**</b>
+## width = 50px><b> **About me**</b>
 
 - 🌱 I’m currently learning **NestJS**
 
