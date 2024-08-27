@@ -18,16 +18,17 @@
 - 📫 How to reach me **[r_boucheraine@estin.dz](mailto:r_boucheraine@estin.dz)**
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Connect With Me:</b>
 <div align="left" style="display: flex; gap: 16px">
-  <a href="https://linkedin.com/in/rayane-boucheraine" target="blank">
+  <a href="https://linkedin.com/in/rayane-boucheraine" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayane-boucheraine" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/rayane_boucheraine" target="blank">
+  <a href="https://instagram.com/rayane_boucheraine" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayane_boucheraine" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/1009885392339730453" target="blank">
+  <a href="https://discord.gg/1009885392339730453" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1009885392339730453" height="30" width="40" />
   </a>
 </div>
+
 
 <br>
 
@@ -36,7 +37,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,scss,tailwindcss,bootstrap,react,redux,nextjs,express,nestjs,mongodb,mysql,jest,wasm,c,java,python,vscode,vite,git,linux,docker,bash,nginx,figma" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,scss,tailwindcss,bootstrap,react,redux,nextjs,nestjs,mongodb,mysql,jest,wasm,c,java,python,vscode,vite,git,linux,docker,bash,nginx,figma" alt="My Skills" />
   </a>
 </p>
 <br />
