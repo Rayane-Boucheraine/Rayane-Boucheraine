@@ -8,7 +8,8 @@
 <h1 align="center">Hi 👋, I'm Rayane Boucheraine</h1>
 <h3 align="center">🚀 A Passionate Web Developer And Cyber Security Enthusiast From Algeria 🚀</h3>
 
-## <img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif?raw=true" width = 50px><b> **About me**</b>
+##
+width = 50px><b> **About me**</b>
 
 - 🌱 I’m currently learning **NestJS**
 
@@ -18,7 +19,7 @@
 
 - 📫 How to reach me **[r_boucheraine@estin.dz](mailto:r_boucheraine@estin.dz)**
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left">
   <a href="https://linkedin.com/in/rayane-boucheraine" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayane-boucheraine" height="30" width="40" />
   </a>
@@ -28,14 +29,13 @@
   <a href="https://discord.gg/1009885392339730453" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1009885392339730453" height="30" width="40" />
   </a>
-</p>
+</div>
 
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,typescript,html,css,scss,tailwindcss,bootstrap,react,redux,nextjs,express,nestjs,mongodb,mysql,jest,wasm,c,java,python,vscode,vite,git,linux,docker,bash,nginx,figma" alt="My Skills" />
