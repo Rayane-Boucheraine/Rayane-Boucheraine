@@ -19,8 +19,18 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      - name: push snake.svg to the output branch
+      - name: Install dependencies
+        run: |
+          npm install
+          
+      - name: Build project
+        run: |
+          npm run build  # Adjust this command based on your build script
+
+      - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
