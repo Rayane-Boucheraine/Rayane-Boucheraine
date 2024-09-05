@@ -2,11 +2,8 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    # Runs every 10 hour
-    - cron: "* */10 * * *"
-
+    - cron: "0 */10 * * *" # Runs every 10 hours
   workflow_dispatch:
-
   push:
     branches: [master, main]
   pull_request: 
@@ -19,5 +16,27 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+
+      - name: Fetch GitHub activity
+        run: |
+          # Fetch GitHub activity (this is just an example, replace with actual commands)
+          echo "Fetching GitHub activity..."
+          # Write activity to a file
+          echo "Latest GitHub activity goes here" > activity.txt
+
+      - name: Update README
+        run: |
+          # Update README with fetched activity
+          echo "Updating README..."
+          # Append activity to README
+          cat activity.txt >> README.md
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'Rayane-Boucheraine'
+          git config --global user.email 'rayanema055@gmail.com'
+          git add README.md
+          git commit -m 'Update README with latest GitHub activity'
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
