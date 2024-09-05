@@ -1,0 +1,25 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    # Runs every 10 hour
+    - cron: "* */10 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches: [master, main]
+  pull_request: 
+    branches: [master, main]
+
+jobs:
+  update-readme:
+    name: Update this repo's README with latest GitHub activity
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
