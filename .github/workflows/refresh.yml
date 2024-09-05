@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Update Readme File
 
 on:
   schedule: 
