@@ -1,6 +1,6 @@
 <!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="https://sdmntpreastus.oaiusercontent.com/files/00000000-b8d4-61f9-9d80-04e27373cfed/raw?se=2025-07-06T01%3A15%3A29Z&sp=r&sv=2024-08-04&sr=b&scid=6a07db4d-f1fa-5def-88bd-3defdbed6758&skoid=02b7f7b5-29f8-416a-aeb6-99464748559d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-05T09%3A50%3A20Z&ske=2025-07-06T09%3A50%3A20Z&sks=b&skv=2024-08-04&sig=3pdUVlA9er6Nf2kKgfj1KdzD/Lv5b6Ygww2ngpL4wuU%3D" alt="animated contribution snake" />
+  <img src="https://sdmntpreastus.oaiusercontent.com/files/00000000-b8d4-61f9-9d80-04e27373cfed/raw?se=2025-07-08T23%3A39%3A24Z&sp=r&sv=2024-08-04&sr=b&scid=797996eb-c7ca-5c24-b68d-8763859272b2&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-08T21%3A02%3A31Z&ske=2025-07-09T21%3A02%3A31Z&sks=b&skv=2024-08-04&sig=2B%2BXy59v2cTJstBCMop9nYnWrn48JlR%2Bk9BJjUlj9/c%3D" alt="animated contribution snake" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Rayane Boucheraine</h1>
