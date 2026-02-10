@@ -71,14 +71,7 @@ I don't just learn; I find bugs. My track record in public contests and practice
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayane-Boucheraine&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=prs" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=Rayane-Boucheraine&theme=radical&hide_border=true" width="48%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayane-Boucheraine&layout=compact&theme=radical&hide_border=true&langs_count=10" width="40%"/>
 </div>
 
 ---
